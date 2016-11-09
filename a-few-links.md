@@ -48,10 +48,22 @@ So, we want to test if $$ \hat{p_P} == \hat{p_R} $$ .
 If: n1 p1 > 5 and n1(1 − p1) > 5 and n2 p2 > 5 and n2(1 − p2) > 5 and independent observations,
 then we can do an estimation with the normal distribution 
 
+http://stats.stackexchange.com/questions/113602/test-if-two-binomial-distributions-are-statistically-different-from-each-other
+
+https://en.wikipedia.org/wiki/Statistical_hypothesis_testing
+(see: Two-proportion z-test, pooled for H0 : p1 = p2)  
+
 ### Difference of two binomials:
-http://math.stackexchange.com/questions/562119/difference-of-two-binomial-random-variables
 
 more complicated but feasible
+
+http://math.stackexchange.com/questions/562119/difference-of-two-binomial-random-variables
+
+
+## References
+
+http://www.stat.wisc.edu/~st571-1/10-power-4.pdf
+http://math.stackexchange.com/questions/562119/difference-of-two-binomial-random-variables
 
 
 
